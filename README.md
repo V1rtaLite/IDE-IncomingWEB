@@ -14,5 +14,6 @@ Readme.md
 
                                             Люди/группы/компании которые поддерживают меня:
 
-                                          
+<img width="640" height="641" alt="Image" src="https://github.com/user-attachments/assets/b5e1eca1-8228-4fbd-b74a-92d0031bdb88" />
+V1RTULITY (я)
 
